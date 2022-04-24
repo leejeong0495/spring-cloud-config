@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: my_token_default
+  secret: user_token_native_application
 
 gateway: 
   ip: 192.168.14.141
