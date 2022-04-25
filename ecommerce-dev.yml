@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: dev_token_native_application
+  secret: api_gateway_service_token_native_application
 
 gateway: 
   ip: 192.168.50.10
