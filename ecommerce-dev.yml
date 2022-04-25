@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: api_gateway_service_token_native_application
+  secret: '{cipher}AQBf3Bo4EQWWRsBloc2bNk8nZyCqa/nIYxHtrxbajWmJKs7+0YTc0mJw68bTUFkcPGxPWhNfkElHHTUrhjpLho35BULp02vh/Y6sP4uJS/RyB738cfVb3cnKtAtBsjdcX1VtKlNujf5bkN7EYxbuI4RoVzaNOARW6zU/QizG1d7Kewe/q+jQBju7kNuJWXR5qiDU82lrzWlQOoEfs9sJQDDAFK1/mRIGPTc9mGNzwfw8kgacJA7APLq7O+/R7SwuPz3sZqorsQCA/LsHvBDplQ3sTfZydB0tSuLUIvaaM4ld3wL5dwHBHZl5OKbWDGgURKyT/JxDJ9vMiGEgQZKlpYCaCQNqRDDD6Csdi61M2rSyYcFl88aIxhxUDcjdqnc94Gy+dIShYlgSFfLWU/EmHPT9NM8B7JolQtPXgiDX3v8J2w=='
 
 gateway: 
   ip: 192.168.50.10
