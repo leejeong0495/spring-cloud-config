@@ -11,5 +11,5 @@ token:
 gateway: 
   ip: 192.168.50.10
 
-order_service:
-  url: http://127.0.0.1:58509/order-service/%s/orders
+order_service: 
+  url: http://127.0.0.1:58509/order-service/%s/orders 
