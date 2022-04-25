@@ -1,3 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:h2:tcp://localhost/~/test
+    driver-class-name: org.h2.Driver
+    username: sa
+    password: '{cipher}31ac0680e3e94354d4fe0395be11e02f0e04b2ac6464361d16ae7e8ae7f2ea55'
 token:
   expiration_time: 864000000
   secret: user_token_native_application
