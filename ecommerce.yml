@@ -10,3 +10,6 @@ token:
 
 gateway: 
   ip: 192.168.50.10
+
+order_service:
+  url: http://laptop-2m995cbt:58509/order-service/%s/orders
